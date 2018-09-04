@@ -27,7 +27,7 @@ The most complete version is VBA.
 
 <a id="user-content-install" class="anchor" href="#install" aria-hidden="true"> </a>
 ## Install
-Instructions for installation of VBA
+Instructions for installation of VBA version
 
 ### VBA
 How to install the VBA version
