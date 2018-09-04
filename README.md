@@ -9,7 +9,7 @@ The most complete version is VBA.
 </a>
 
 <h1 align="left">
-  <img src="screenshot.png" />
+  <img src="Images/ReadMe/screenshot.png" />
 </h1>
 
 <br>
@@ -31,7 +31,7 @@ Instructions for installation of VBA version
 
 ### VBA
 How to install the VBA version
-1. Download the VBA Add-In file [![download VBA](https://img.shields.io/badge/download-VBA-brightgreen.svg)](https://github.com/Office-projects/Excel-Timesheet/raw/master/Timesheet.xlsm?raw=true "Download the VBA Add-In").
+1. Download the VBA Add-In file [![download VBA](https://img.shields.io/badge/download-VBA-brightgreen.svg)](https://github.com/Office-projects/VBA/Excel-Timesheet/raw/master/Timesheet.xlsm?raw=true "Download the VBA Add-In").
 
 
 <br>
