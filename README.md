@@ -33,7 +33,6 @@ Instructions for installation of VBA version
 How to install the VBA version
 1. Download the VBA Add-In file [![download VBA](https://img.shields.io/badge/download-VBA-brightgreen.svg)](https://github.com/Office-projects/Excel-Timesheet/raw/master/VBA/Timesheet.xlsm?raw=true "Download the VBA Add-In").
 
-
 <br>
 
 <a id="user-content-dependencies" class="anchor" href="#dependencies" aria-hidden="true"> </a>
