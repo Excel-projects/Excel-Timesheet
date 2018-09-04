@@ -7,6 +7,7 @@
 This Add-In is used to produce a timesheet file with functionality to import your Google Timeline. 
 
 TODO: convert to .NET project and write up details of controls
+* Tested on Windows 7 / Excel 2016
 
 The most complete version is VBA. 
 <a href="https://github.com/Office-projects/Excel-Timesheet/issues" target="_blank">
