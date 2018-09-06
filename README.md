@@ -1,11 +1,11 @@
 <img align="left" src="Images/ReadMe/header2.png">
 
+This Add-In is used to produce a timesheet file with functionality to import your Google Timeline. 
+
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/AnthonyDuguid)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE "MIT License Copyright © Anthony Duguid")
 [![Latest Release](https://img.shields.io/github/release/Office-projects/Excel-Timesheet.svg?label=latest%20release)](https://github.com/Office-projects/Excel-Timesheet/releases)
 [![Github commits (since latest release)](https://img.shields.io/github/commits-since/Office-projects/Excel-Timesheet/latest.svg)](https://github.com/Office-projects/Excel-Timesheet)
-
-This Add-In is used to produce a timesheet file with functionality to import your Google Timeline. 
 
 TODO: convert to .NET project and write up details of controls
 * Tested on Windows 7 / Excel 2016
