@@ -16,7 +16,7 @@ The most complete version is VBA.
 </a>
 
 <h1 align="left">
-  <img src="Images/ReadMe/screenshot.png" />
+  <img src="Images/ReadMe/vba.excel.ribbon.timesheet.gif" />
 </h1>
 
 <br>
