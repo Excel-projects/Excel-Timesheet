@@ -175,7 +175,7 @@ VBA
 
 <a id="user-content-description" class="anchor" href="#description" aria-hidden="true"> </a>
 #### Add-in Name (Label)
-* The application name with the version [<img src="Images/ReadMe/ribbon.easteregg.ico">](https://raw.githubusercontent.com/Office-projects/ScriptHelp/master/Images/ReadMe/ribbon.easteregg.gif "Easter Egg")
+* The application name with the version
 
 <a id="user-content-install-date" class="anchor" href="#install-date" aria-hidden="true"> </a>
 #### Release Date (Label)
