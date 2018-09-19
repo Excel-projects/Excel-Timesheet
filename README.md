@@ -78,47 +78,63 @@ This Excel ribbon is inserted after the “Home” tab when Excel opens. Listed 
 
 
 
-<a id="user-content-format-data-table" class="anchor" href="#format-data-table" aria-hidden="true"> </a>
+
 ### Insert Data (Group)
+* Insert rows of data into the active table with the following controls.
 
-
-<a id="user-content-format-as-table" class="anchor" href="#format-as-table" aria-hidden="true"> </a>
 ####	Add Days (Button)
-* ...
+* Add days from the textbox values in the start and end dates in the "Date Options" group.
 
-<a id="user-content-freeze-panes" class="anchor" href="#freeze-panes" aria-hidden="true"> </a>
 ####	Add Timeline (Button)
-* ...
+* Add timeline events from downloaded .kml files from Google.
 
-<a id="user-content-remove-duplicates" class="anchor" href="#remove-duplicates" aria-hidden="true"> </a>
 #### Download (Button)
-* ...
+* Download your Google timeline as .kml files. A file is created per day using the date filters in the ribbon.
 
-<a id="user-content-separate-values" class="anchor" href="#separate-values" aria-hidden="true"> </a>
 #### Open Page (Button)
-* ...
+* Open your Google timeline web page.
 
-<a id="user-content-clean-data" class="anchor" href="#clean-data" aria-hidden="true"> </a>
 #### UTC (Dropdown)
-* ...
+* This is the timezone offset for the stored date & time values in your Google Timeline.
 
-<a id="user-content-format-data-table" class="anchor" href="#format-data-table" aria-hidden="true"> </a>
 ### Date Options (Group)
 
+#### Start Date (Textbox)
 
-<a id="user-content-format-data-table" class="anchor" href="#format-data-table" aria-hidden="true"> </a>
-### Days Options (Group)
+#### End Date (Textbox)
+
+#### Column (Combobox)
+
+#### Calendar (Button)
+
+#### Refresh (Button)
+
+#### Current Week (Button)
+
+#### Next 7 Days (Button)
+
+#### Filter Table (Button)
 
 
-<a id="user-content-format-data-table" class="anchor" href="#format-data-table" aria-hidden="true"> </a>
+### Day Options (Group)
+
+#### Sun, Mon, Tue, Wed, Thu, Fri, Sat (Checkboxes)
+
 ### Time Options (Group)
 
+#### Start Date  (Combobox)
+#### End Date (Combobox)
+#### Break Time (Combobox)
+
+#### Refresh (Buttons)
+
+#### Start Date  (Textbox)
+#### End Date (Textbox)
+#### Break Time (Textbox)
 
 
-<a id="user-content-help" class="anchor" href="#help" aria-hidden="true"> </a>
 ###	Tools (Group)
 
-<a id="user-content-settings" class="anchor" href="#settings" aria-hidden="true"> </a>
 #### Settings (Button)
 
 <kbd>
