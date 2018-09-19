@@ -83,7 +83,7 @@ This Excel ribbon is inserted after the “Home” tab when Excel opens. Listed 
 
 <a id="user-content-ribbon-group-insert-data" class="anchor" href="#ribbon-group-insert-data" aria-hidden="true"> </a>
 ### Insert Data (Group)
-* Insert rows of data into the active table with the following controls.
+Insert rows of data into the active table with the following controls.
 
 <h1 align="left">
   <img src="Images/ReadMe/ribbon.group.insertdata.png" />
@@ -107,7 +107,7 @@ This Excel ribbon is inserted after the “Home” tab when Excel opens. Listed 
 
 <a id="user-content-ribbon-group-date-options" class="anchor" href="#ribbon-group-date-options" aria-hidden="true"> </a>
 ### Date Options (Group)
-* These date options will filter the selected table.
+These date options will filter the selected table.
 
 <h1 align="left">
   <img src="Images/ReadMe/ribbon.group.dateoptions.png" />
@@ -141,7 +141,7 @@ This Excel ribbon is inserted after the “Home” tab when Excel opens. Listed 
 
 <a id="user-content-ribbon-group-day-options" class="anchor" href="#ribbon-group-day-options" aria-hidden="true"> </a>
 ### Day Options (Group)
-*...
+
 
 <h1 align="left">
   <img src="Images/ReadMe/ribbon.group.dayoptions.png" />
@@ -153,7 +153,7 @@ This Excel ribbon is inserted after the “Home” tab when Excel opens. Listed 
 
 <a id="user-content-ribbon-group-time-options" class="anchor" href="#ribbon-group-time-options" aria-hidden="true"> </a>
 ### Time Options (Group)
-*...
+
 
 <h1 align="left">
   <img src="Images/ReadMe/ribbon.group.timeoptions.png" />
@@ -183,7 +183,7 @@ This Excel ribbon is inserted after the “Home” tab when Excel opens. Listed 
 
 <a id="user-content-ribbon-group-tools" class="anchor" href="#ribbon-group-tools" aria-hidden="true"> </a>
 ###	Tools (Group)
-*...
+
 
 <h1 align="left">
   <img src="Images/ReadMe/ribbon.group.tools.png" />
