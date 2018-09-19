@@ -170,21 +170,7 @@ This Excel ribbon is inserted after the “Home” tab when Excel opens. Listed 
 
 #### Settings (Button)
 *...
-
-<kbd>
-VSTO
-<br>
-  <img align="left" src="Images/ReadMe/vsto.ribbon.settings.png" />
-</kbd>
-
-- Types of VSTO Settings
-  - Application Settings
-    - These settings can only be changed in the project and need to be redeployed
-    - They will appear disabled in the form
-  - User Settings
-    - These settings can be changed by the end-user
-    - They will appear enabled in the form
-    
+   
 <kbd>
 VBA
 <br>
