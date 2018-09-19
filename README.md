@@ -169,7 +169,7 @@ This Excel ribbon is inserted after the “Home” tab when Excel opens. Listed 
 *...
 
 #### Settings (Button)
-*...
+* Settings represent user preferences or valuable information the application needs to use.
    
 <kbd>
 VBA
