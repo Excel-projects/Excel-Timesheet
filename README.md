@@ -195,7 +195,7 @@ VBA
     ThisWorkbook.CustomDocumentProperties.Item("App_ReleaseDate").Delete
     ```
 
-#### View Errors (Button)
+#### View Errors (Toggle Button)
 *...
 
 #### Export Code (Button)
