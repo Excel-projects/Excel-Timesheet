@@ -26,9 +26,12 @@ The most complete version is VBA.
 - <a href="#dependencies">Dependencies</a>
 - <a href="#glossary-of-terms">Glossary of Terms</a>
 - <a href="#functionality">Functionality</a> 
-    - <a href="#buttons">Buttons</a>
-    - <a href="#help">Help</a>
-    - <a href="#about">About</a>
+    - <a href="#ribbon-group-insert-data">Insert Data</a>
+    - <a href="#ribbon-group-date-options">Date Options</a>
+    - <a href="#ribbon-group-day-options">Day Options</a>
+    - <a href="#ribbon-group-time-options">Time Options</a>
+    - <a href="#ribbon-group-tools">Tools</a>
+    - <a href="#ribbon-group-about">About</a>
 
 <br>
 
@@ -78,7 +81,7 @@ This Excel ribbon is inserted after the “Home” tab when Excel opens. Listed 
 
 
 
-
+<a id="user-content-ribbon-group-insert-data" class="anchor" href="#ribbon-group-insert-data" aria-hidden="true"> </a>
 ### Insert Data (Group)
 * Insert rows of data into the active table with the following controls.
 
@@ -97,45 +100,76 @@ This Excel ribbon is inserted after the “Home” tab when Excel opens. Listed 
 #### UTC (Dropdown)
 * This is the timezone offset for the stored date & time values in your Google Timeline.
 
+
+<a id="user-content-ribbon-group-date-options" class="anchor" href="#ribbon-group-date-options" aria-hidden="true"> </a>
 ### Date Options (Group)
+*...
 
 #### Start Date (Textbox)
+*...
 
 #### End Date (Textbox)
+*...
 
 #### Column (Combobox)
+*...
 
 #### Calendar (Button)
+*...
 
 #### Refresh (Button)
+*...
 
 #### Current Week (Button)
+*...
 
 #### Next 7 Days (Button)
+*...
 
 #### Filter Table (Button)
+*...
 
 
+<a id="user-content-ribbon-group-day-options" class="anchor" href="#ribbon-group-day-options" aria-hidden="true"> </a>
 ### Day Options (Group)
+*...
 
 #### Sun, Mon, Tue, Wed, Thu, Fri, Sat (Checkboxes)
+*...
 
+
+<a id="user-content-ribbon-group-time-options" class="anchor" href="#ribbon-group-time-options" aria-hidden="true"> </a>
 ### Time Options (Group)
+*...
 
 #### Start Date  (Combobox)
+*...
+
 #### End Date (Combobox)
+*...
+
 #### Break Time (Combobox)
+*...
 
 #### Refresh (Buttons)
+*...
 
 #### Start Date  (Textbox)
+*...
+
 #### End Date (Textbox)
+*...
+
 #### Break Time (Textbox)
+*...
 
 
+<a id="user-content-ribbon-group-tools" class="anchor" href="#ribbon-group-tools" aria-hidden="true"> </a>
 ###	Tools (Group)
+*...
 
 #### Settings (Button)
+*...
 
 <kbd>
 VSTO
@@ -175,15 +209,14 @@ VBA
     ThisWorkbook.CustomDocumentProperties.Item("App_ReleaseDate").Delete
     ```
 
-<a id="user-content-settings" class="anchor" href="#settings" aria-hidden="true"> </a>
 #### View Errors (Button)
 *...
 
-<a id="user-content-settings" class="anchor" href="#settings" aria-hidden="true"> </a>
 #### Export Code (Button)
 *...
 
-<a id="user-content-about" class="anchor" href="#about" aria-hidden="true"> </a>
+
+<a id="user-content-ribbon-group-about" class="anchor" href="#ribbon-group-about" aria-hidden="true"> </a>
 ###	About (Group)
 <h1 align="left">
   <img src="Images/ReadMe/ribbon.group.about.png" />
