@@ -85,6 +85,10 @@ This Excel ribbon is inserted after the “Home” tab when Excel opens. Listed 
 ### Insert Data (Group)
 * Insert rows of data into the active table with the following controls.
 
+<h1 align="left">
+  <img src="Images/ReadMe/ribbon.group.insertdata.png" />
+</h1>
+
 ####	Add Days (Button)
 * Add days from the textbox values in the start and end dates in the "Date Options" group.
 
@@ -104,6 +108,10 @@ This Excel ribbon is inserted after the “Home” tab when Excel opens. Listed 
 <a id="user-content-ribbon-group-date-options" class="anchor" href="#ribbon-group-date-options" aria-hidden="true"> </a>
 ### Date Options (Group)
 *...
+
+<h1 align="left">
+  <img src="Images/ReadMe/ribbon.group.dateoptions.png" />
+</h1>
 
 #### Start Date (Textbox)
 *...
@@ -134,6 +142,10 @@ This Excel ribbon is inserted after the “Home” tab when Excel opens. Listed 
 ### Day Options (Group)
 *...
 
+<h1 align="left">
+  <img src="Images/ReadMe/ribbon.group.dayoptions.png" />
+</h1>
+
 #### Sun, Mon, Tue, Wed, Thu, Fri, Sat (Checkboxes)
 *...
 
@@ -141,6 +153,10 @@ This Excel ribbon is inserted after the “Home” tab when Excel opens. Listed 
 <a id="user-content-ribbon-group-time-options" class="anchor" href="#ribbon-group-time-options" aria-hidden="true"> </a>
 ### Time Options (Group)
 *...
+
+<h1 align="left">
+  <img src="Images/ReadMe/ribbon.group.timeoptions.png" />
+</h1>
 
 #### Start Date  (Combobox)
 *...
@@ -167,6 +183,11 @@ This Excel ribbon is inserted after the “Home” tab when Excel opens. Listed 
 <a id="user-content-ribbon-group-tools" class="anchor" href="#ribbon-group-tools" aria-hidden="true"> </a>
 ###	Tools (Group)
 *...
+
+<h1 align="left">
+  <img src="Images/ReadMe/ribbon.group.tools.png" />
+</h1>
+
 
 #### Settings (Button)
 * Settings represent user preferences or valuable information the application needs to use.
@@ -204,9 +225,11 @@ VBA
 
 <a id="user-content-ribbon-group-about" class="anchor" href="#ribbon-group-about" aria-hidden="true"> </a>
 ###	About (Group)
+
 <h1 align="left">
   <img src="Images/ReadMe/ribbon.group.about.png" />
 </h1>
+
 
 <a id="user-content-description" class="anchor" href="#description" aria-hidden="true"> </a>
 #### Add-in Name (Label)
