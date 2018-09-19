@@ -107,35 +107,36 @@ This Excel ribbon is inserted after the “Home” tab when Excel opens. Listed 
 
 <a id="user-content-ribbon-group-date-options" class="anchor" href="#ribbon-group-date-options" aria-hidden="true"> </a>
 ### Date Options (Group)
-*...
+* These date options will filter the selected table.
 
 <h1 align="left">
   <img src="Images/ReadMe/ribbon.group.dateoptions.png" />
 </h1>
 
 #### Start Date (Textbox)
-*...
+* The value that is used to filter inserts.
 
 #### End Date (Textbox)
-*...
+* The value that is used to filter inserts.
 
 #### Column (Combobox)
-*...
+* This refers to the column name that date values get added to.
 
-#### Calendar (Button)
-*...
+#### Calendar (Buttons)
+* These buttons allow the user to select a date from a calendar.
+* Note: The calendar has a reference to Common Controls
 
 #### Refresh (Button)
-*...
+* This button will refresh the list of column names in the combobox.
 
 #### Current Week (Button)
-*...
+* This button will set the start and end dates in the textboxes to the current week.
 
 #### Next 7 Days (Button)
-*...
+* This button will set the start and end dates in the textboxes to the next 7 days using the maximum date from the selected table.
 
 #### Filter Table (Button)
-*...
+* This button will filter the selected table with the start and end dates from the textboxes.
 
 
 <a id="user-content-ribbon-group-day-options" class="anchor" href="#ribbon-group-day-options" aria-hidden="true"> </a>
