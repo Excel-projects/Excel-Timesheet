@@ -197,7 +197,7 @@ These date options will filter the selected table.
 <kbd>
 VBA
 <br>
-  <img align="left" src="Images/ReadMe/vba.ribbon.settings.png?#1" />
+  <img align="left" src="Images/ReadMe/vba.ribbon.settings.png" />
 </kbd>
 
 - VBA Settings
