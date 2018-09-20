@@ -148,7 +148,7 @@ These date options will filter the selected table.
 </h1>
 
 #### Sun, Mon, Tue, Wed, Thu, Fri, Sat (Checkboxes)
-*...
+* These checkboxes allow the user to limit the records inserted into the table by selected days
 
 
 <a id="user-content-ribbon-group-time-options" class="anchor" href="#ribbon-group-time-options" aria-hidden="true"> </a>
@@ -159,26 +159,26 @@ These date options will filter the selected table.
   <img src="Images/ReadMe/ribbon.group.timeoptions.png" />
 </h1>
 
-#### Start Date  (Combobox)
-*...
+#### Start Time  (Combobox)
+* The column name of the start time
 
-#### End Date (Combobox)
-*...
+#### End Time (Combobox)
+* The column name of the end time
 
 #### Break Time (Combobox)
-*...
+* The column name of the break time
 
 #### Refresh (Buttons)
-*...
+* Refreshes the list of column name from the selected table
 
-#### Start Date  (Textbox)
-*...
+#### Start Time  (Textbox)
+* The default value for the start time when inserted into the selected table
 
-#### End Date (Textbox)
-*...
+#### End Time (Textbox)
+* The default value for the end time when inserted into the selected table
 
 #### Break Time (Textbox)
-*...
+* The default value for the break time when inserted into the selected table
 
 
 <a id="user-content-ribbon-group-tools" class="anchor" href="#ribbon-group-tools" aria-hidden="true"> </a>
@@ -192,7 +192,8 @@ These date options will filter the selected table.
 
 #### Settings (Button)
 * Settings represent user preferences or valuable information the application needs to use.
-   
+* This opens the settings form. The settings are stored as custom properties and can be changed by double-clicking the item or using the update button.
+
 <kbd>
 VBA
 <br>
@@ -218,10 +219,10 @@ VBA
     ```
 
 #### View Errors (Toggle Button)
-*...
+* View a list of errors in a hidden sheet
 
 #### Export Code (Button)
-*...
+* Export the VBA and XML code for this file to the current directory
 
 
 <a id="user-content-ribbon-group-about" class="anchor" href="#ribbon-group-about" aria-hidden="true"> </a>
