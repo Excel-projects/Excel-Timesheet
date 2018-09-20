@@ -7,7 +7,7 @@ This Add-In is used to produce a timesheet file with functionality to import you
 [![Latest Release](https://img.shields.io/github/release/Office-projects/Excel-Timesheet.svg?label=latest%20release)](https://github.com/Office-projects/Excel-Timesheet/releases)
 [![Github commits (since latest release)](https://img.shields.io/github/commits-since/Office-projects/Excel-Timesheet/latest.svg)](https://github.com/Office-projects/Excel-Timesheet)
 
-TODO: convert to .NET project and write up details of controls
+TODO: convert to .NET
 * Tested on Windows 7 / Excel 2016
 
 The most complete version is VBA. 
