@@ -6,9 +6,8 @@ This Add-In is used to produce a timesheet file with functionality to import you
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE "MIT License Copyright © Anthony Duguid")
 [![Latest Release](https://img.shields.io/github/release/Office-projects/Excel-Timesheet.svg?label=latest%20release)](https://github.com/Office-projects/Excel-Timesheet/releases)
 [![Github commits (since latest release)](https://img.shields.io/github/commits-since/Office-projects/Excel-Timesheet/latest.svg)](https://github.com/Office-projects/Excel-Timesheet)
-<a href="https://github.com/Office-projects/Excel-Timesheet/issues" target="_blank">
- <img alt="Issues" src="https://img.shields.io/github/issues/Office-projects/Excel-Timesheet.svg" />
-</a>
+[![GitHub issues](https://img.shields.io/github/issues/Office-projects/Excel-Timesheet.svg)](https://github.com/Office-projects/Excel-Timesheet/issues)
+[![Github All Releases](https://img.shields.io/github/downloads/Office-projects/Excel-Timesheet/total.svg)](https://github.com/Office-projects/Excel-Timesheet/releases)
 
 * Tested on Windows 7 / Excel 2016
 
