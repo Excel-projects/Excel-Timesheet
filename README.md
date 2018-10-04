@@ -26,7 +26,7 @@ This Add-In is used to produce a timesheet file with functionality to import you
     - <a href="#ribbon-group-date-options">Date Options</a>
     - <a href="#ribbon-group-day-options">Day Options</a>
     - <a href="#ribbon-group-time-options">Time Options</a>
-    - <a href="#ribbon-group-tools">Tools</a>
+    - <a href="#ribbon-group-help">Help</a>
     - <a href="#ribbon-group-about">About</a>
 
 <br>
@@ -177,14 +177,20 @@ These date options will filter the selected table.
 * The default value for the break time when inserted into the selected table
 
 
-<a id="user-content-ribbon-group-tools" class="anchor" href="#ribbon-group-tools" aria-hidden="true"> </a>
-###	Tools (Group)
+<a id="user-content-ribbon-group-help" class="anchor" href="#ribbon-group-help" aria-hidden="true"> </a>
+###	Help (Group)
 
 
 <h1 align="left">
-  <img src="Images/ReadMe/ribbon.group.tools.png" />
+  <img src="Images/ReadMe/ribbon.group.help.png" />
 </h1>
 
+
+#### How To… (Button)
+* Opens a webpage of the read me documentation
+
+#### Report Issue (Button)
+* Opens a page to create a new issue for the product
 
 #### Settings (Button)
 * Settings represent user preferences or valuable information the application needs to use.
@@ -214,8 +220,20 @@ VBA
     ThisWorkbook.CustomDocumentProperties.Item("App_ReleaseDate").Delete
     ```
 
+<a id="user-content-ribbon-group-admin" class="anchor" href="#ribbon-group-admin" aria-hidden="true"> </a>
+###	Admin (Group)
+This group's visibility is toggled with the <kbd>F12</kbd> key
+
+<h1 align="left">
+  <img src="Images/ReadMe/ribbon.group.admin.png" />
+</h1>
+
+
 #### View Errors (Toggle Button)
 * View a list of errors in a hidden sheet
+
+#### Visual Basic (Button)
+* Opens the Visual Basic editor
 
 #### Export Code (Button)
 * Export the VBA and XML code for this file to the current directory
