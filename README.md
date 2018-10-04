@@ -27,6 +27,7 @@ This Add-In is used to produce a timesheet file with functionality to import you
     - <a href="#ribbon-group-day-options">Day Options</a>
     - <a href="#ribbon-group-time-options">Time Options</a>
     - <a href="#ribbon-group-help">Help</a>
+    - <a href="#ribbon-group-admin">Admin</a>
     - <a href="#ribbon-group-about">About</a>
 
 <br>
