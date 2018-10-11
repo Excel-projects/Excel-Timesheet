@@ -11,6 +11,10 @@ This Add-In is used to produce a timesheet file with functionality to import you
 
 * Tested on Windows 7 / Excel 2016
 
+### To Do List:
+
+* add daylight savings time list by country as a option
+
 <h1 align="left">
   <img src="Images/ReadMe/vba.excel.ribbon.timesheet.gif" />
 </h1>
