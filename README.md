@@ -92,14 +92,11 @@ Insert rows of data into the active table with the following controls.
 ####	Add Timeline (Button)
 * Add timeline events from downloaded .kml files from Google.
 
-#### Download (Button)
-* Download your Google timeline as .kml files. A file is created per day using the date filters in the ribbon.
-
-#### Open Page (Button)
-* Open your Google timeline web page.
-
 #### UTC (Dropdown)
 * This is the timezone offset for the stored date & time values in your Google Timeline.
+
+#### Apply DST (Toggle Button)
+* This will apply the daylight savings time to the Google Timeline import.
 
 
 <a id="user-content-ribbon-group-date-options" class="anchor" href="#ribbon-group-date-options" aria-hidden="true"> </a>
