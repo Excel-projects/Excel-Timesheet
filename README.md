@@ -88,9 +88,12 @@ Insert rows of data into the active table with the following controls.
 
 ####	Add Days (Button)
 * Add days from the textbox values in the start and end dates in the "Date Options" group.
+* Optional filter for day of week in "Day Options" group.
 
 ####	Add Timeline (Button)
-* Add timeline events from downloaded .kml files from Google.
+* Add timeline events filter from the start and end dates in the "Date Options" group.
+* Downloads the .kml files per day from Google Timeline
+* Imports each .kml file with optional filters for Title (using a delimited list in the settings) and day of week in "Day Options" group.
 
 #### UTC (Dropdown)
 * This is the timezone offset for the stored date & time values in your Google Timeline.
