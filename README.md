@@ -97,6 +97,7 @@ Insert rows of data into the active table with the following controls.
 
 #### UTC (Dropdown)
 * This is the timezone offset for the stored date & time values in your Google Timeline.
+* Uses a hidden sheet for the list of Timezones
 
 #### Apply DST (Toggle Button)
 * This will apply the daylight savings time to the Google Timeline import.
