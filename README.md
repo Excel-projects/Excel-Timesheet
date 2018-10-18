@@ -1,4 +1,4 @@
-<img align="left" src="Images/ReadMe/header2.png">
+<img align="left" src="Images/ReadMe/header.png">
 
 This Add-In is used to produce a timesheet file with functionality to import your Google Timeline. 
 
