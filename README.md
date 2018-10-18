@@ -1,6 +1,6 @@
 <img align="left" src="Images/ReadMe/header.png">
 
-This Add-In is used to produce a timesheet file with functionality to import your Google Timeline. 
+This Add-In is used to produce a timesheet file with functionality to import your [Google Timeline](https://www.google.com.au/maps/timeline?hl=en&authuser=0&pb=!1m2!1m1!1s). 
 
 <!--[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/AnthonyDuguid/1.00)-->
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE "MIT License Copyright © Anthony Duguid")
