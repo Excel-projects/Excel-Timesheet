@@ -98,6 +98,9 @@ Insert rows of data into the active table with the following controls.
 #### Apply DST (Toggle Button)
 * This will apply the daylight savings time to the Google Timeline import.
 
+#### Filter Title (Toggle Button)
+* This will apply the title filter from the settings to the Google Timeline import.
+
 
 <a id="user-content-ribbon-group-date-options" class="anchor" href="#ribbon-group-date-options" aria-hidden="true"> </a>
 ### Date Options (Group)
