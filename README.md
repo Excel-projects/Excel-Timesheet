@@ -4,10 +4,10 @@ This Add-In is used to produce a timesheet file with functionality to import you
 
 <!--[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/AnthonyDuguid/1.00)-->
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE "MIT License Copyright © Anthony Duguid")
-[![Latest Release](https://img.shields.io/github/release/Office-projects/Excel-Timesheet.svg?label=latest%20release)](https://github.com/Office-projects/Excel-Timesheet/releases)
-[![Github commits (since latest release)](https://img.shields.io/github/commits-since/Office-projects/Excel-Timesheet/latest.svg)](https://github.com/Office-projects/Excel-Timesheet/commits/master)
-[![GitHub issues](https://img.shields.io/github/issues/Office-projects/Excel-Timesheet.svg)](https://github.com/Office-projects/Excel-Timesheet/issues)
-<!--[![Github All Releases](https://img.shields.io/github/downloads/Office-projects/Excel-Timesheet/total.svg)](https://github.com/Office-projects/Excel-Timesheet/releases)-->
+[![Latest Release](https://img.shields.io/github/release/Excel-projects/Excel-Timesheet.svg?label=latest%20release)](https://github.com/Excel-projects/Excel-Timesheet/releases)
+[![Github commits (since latest release)](https://img.shields.io/github/commits-since/Excel-projects/Excel-Timesheet/latest.svg)](https://github.com/Excel-projects/Excel-Timesheet/commits/master)
+[![GitHub issues](https://img.shields.io/github/issues/Excel-projects/Excel-Timesheet.svg)](https://github.com/Excel-projects/Excel-Timesheet/issues)
+<!--[![Github All Releases](https://img.shields.io/github/downloads/Excel-projects/Excel-Timesheet/total.svg)](https://github.com/Excel-projects/Excel-Timesheet/releases)-->
 
 * Tested on Windows 7 / Excel 2016
 
@@ -38,7 +38,7 @@ Instructions for installation of VBA version
 
 ### VBA
 How to install the VBA version
-1. Download the VBA Add-In file [![download VBA](https://img.shields.io/badge/download-VBA-brightgreen.svg)](https://github.com/Office-projects/Excel-Timesheet/raw/master/VBA/Timesheet.xlsm?raw=true "Download the VBA Add-In").
+1. Download the VBA Add-In file [![download VBA](https://img.shields.io/badge/download-VBA-brightgreen.svg)](https://github.com/Excel-projects/Excel-Timesheet/raw/master/VBA/Timesheet.xlsm?raw=true "Download the VBA Add-In").
 
 <br>
 
