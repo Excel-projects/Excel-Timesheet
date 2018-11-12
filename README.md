@@ -1,6 +1,6 @@
 <img align="left" src="Images/ReadMe/header.png">
 
-This Add-In is used to produce a timesheet file with functionality to import your [Google Timeline](https://www.google.com/maps/timeline). 
+This Add-In is used to produce a timesheet file with functionality to import your [Google Timeline](https://www.google.com/maps/timeline). I used [Alexandre Attia's blog post](https://medium.com/alex-attia-blog/how-to-take-back-control-and-use-your-google-maps-data-683fb5d4043e) as a reference to write the logic for downloading the Google Timeline files. 
 
 <!--[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/AnthonyDuguid/1.00)-->
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE "MIT License Copyright © Anthony Duguid")
