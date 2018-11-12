@@ -13,7 +13,7 @@ This Add-In is used to produce a timesheet file with functionality to import you
 * Add sheet for holidays and vacation, optional insert into timesheet when adding rows.
 
 <h1 align="left">
-  <img src="Images/ReadMe/vba.excel.ribbon.timesheet.gif" />
+  <img src="Images/ReadMe/excel.ribbon.gif" />
 </h1>
 
 <br>
