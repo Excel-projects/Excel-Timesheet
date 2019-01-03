@@ -1,8 +1,6 @@
 <img align="left" src="Images/ReadMe/header.png">
 
-This Add-In is used to produce a timesheet file with functionality to import your [Google Timeline](https://www.google.com/maps/timeline). The standard timesheet has options for start and end dates, day of week and default start, end and break times. The Google timeline options are start and end dates, UTC selection, daylight savings time parameters and title filter for timeline entries. There is also a right click shortcut to open your Google timeline to the date of the row that is currently selected. 
-
-I used [Terence Eden's blog post](https://shkspr.mobi/blog/2015/09/get-your-google-location-history-the-hard-way-again/) as a reference to write the procedure for downloading the Google Timeline files.  
+This Add-In is used to produce a timesheet file with functionality to import your [Google Timeline](https://www.google.com/maps/timeline). The standard timesheet has options for start and end dates, day of week and default start, end and break times. The Google timeline options are start and end dates, UTC selection, daylight savings time parameters and title filter for timeline entries. There is also a right click shortcut to open your Google timeline to the date of the row that is currently selected. I used [Terence Eden's blog post](https://shkspr.mobi/blog/2015/09/get-your-google-location-history-the-hard-way-again/) as a reference to write the procedure for downloading the Google Timeline files.  
 
 <!--[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/AnthonyDuguid/1.00)-->
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE "MIT License Copyright © Anthony Duguid")
