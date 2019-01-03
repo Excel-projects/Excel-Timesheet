@@ -10,7 +10,6 @@ This Add-In is used to produce a timesheet file with functionality to import you
 <!--[![Github All Releases](https://img.shields.io/github/downloads/Excel-projects/Excel-Timesheet/total.svg)](https://github.com/Excel-projects/Excel-Timesheet/releases)-->
 
 * Tested on Windows 7 / Excel 2016
-* Add sheet for holidays and vacation, optional insert into timesheet when adding rows.
 
 <h1 align="left">
   <img src="Images/ReadMe/excel.ribbon.gif" />
