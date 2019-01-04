@@ -9,7 +9,9 @@ This Add-In is used to produce a timesheet file with functionality to import you
 [![GitHub issues](https://img.shields.io/github/issues/Excel-projects/Excel-Timesheet.svg)](https://github.com/Excel-projects/Excel-Timesheet/issues)
 <!--[![Github All Releases](https://img.shields.io/github/downloads/Excel-projects/Excel-Timesheet/total.svg)](https://github.com/Excel-projects/Excel-Timesheet/releases)-->
 
-* Tested on Windows 7 / Excel 2016
+<img src="https://img.shields.io/badge/Excel%202016-passed-green.svg?logo=microsoft%20excel&style=for-the-badge" />
+<img src="https://img.shields.io/badge/Windows%20%207-passed-green.svg?logo=windows&7&style=for-the-badge" />
+<img src="https://img.shields.io/badge/Windows%2010-failed-red.svg?logo=windows&7&style=for-the-badge" />
 
 <h1 align="left">
   <img src="Images/ReadMe/excel.ribbon.gif" />
