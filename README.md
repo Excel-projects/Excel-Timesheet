@@ -12,11 +12,6 @@ This Add-In is used to produce a timesheet file with functionality to import you
 -----
 
 <h1 align="left">
-<img src="https://img.shields.io/badge/Excel%202016-passed-green.svg?logo=microsoft%20excel&style=for-the-badge" />
-<img src="https://img.shields.io/badge/Windows%20%207-passed-green.svg?logo=windows&7&style=for-the-badge" />
-</h1>
-
-<h1 align="left">
   <img src="Images/ReadMe/excel.ribbon.gif" />
 </h1>
 
